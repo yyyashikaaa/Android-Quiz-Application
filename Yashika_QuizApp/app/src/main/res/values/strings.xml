@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <string name="que1">1.  How many ways to start services?</string>
+    <string name="ans1a">  A )   started</string>
+    <string name="ans1b">  B )   bound</string>
+    <string name="ans1c">  C )   A and B</string>
+
+    <string name="que2">2.  Layouts in android?</string>
+    <string name="ans2a">  A )   Frame Layout</string>
+    <string name="ans2b">  B )   Relative</string>
+    <string name="ans2c">  C )   A and B</string>
+
+    <string name="que3">3.  Parent class of Service?</string>
+    <string name="ans3">ContextWrapper</string>
+
+    <string name="que4">4.  When contentProvider would be activated?</string>
+    <string name="ans4">using ContentResolver</string>
+
+    <string name="que5">5.  Characteristics of the  Loaders?</string>
+    <string name="ans5a">  A )   they are available to every Activity and Fragment</string>
+    <string name="ans5b">  B )   they provide asynchronous loading of data.</string>
+    <string name="ans5c">  C )   A and B</string>
+
+    <string name="que6">6.  What are the indirect Direct subclasses of Services?</string>
+    <string name="ans6a">  A )   recognitionService</string>
+    <string name="ans6b">  B )   remoteViewsService</string>
+    <string name="ans6c">  C )   inputMethodService</string>
+
+    <string name="que7">7.  Parent class of Activity?</string>
+    <string name="ans7">contextThemeWrapper</string>
+
+    <string name="que8">8.  If your service is private to your own application and runs in the same process as the client (which is common), you should create your interface by extending the ________class?</string>
+    <string name="ans8">binder</string>
+
+    <string name="que9">9.  Which of the following icon represents android?</string>
+
+    <string name="que10">10.    Which of the following icon represents android studio?</string>
+
+
+</resources>
